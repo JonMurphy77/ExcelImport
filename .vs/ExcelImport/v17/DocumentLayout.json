@@ -1,0 +1,407 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5537A47E-9659-4A87-B95D-94206C194494}|TestHarness\\TestHarness.csproj|f:\\sj software solutions\\projects\\excellimport\\testharness\\testharness.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5537A47E-9659-4A87-B95D-94206C194494}|TestHarness\\TestHarness.csproj|solutionrelative:testharness\\testharness.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6420C1F2-5F2F-4F4C-8197-C627D5BB1202}|Domain\\Domain.csproj|f:\\sj software solutions\\projects\\excellimport\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6420C1F2-5F2F-4F4C-8197-C627D5BB1202}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5389FD98-0F47-46AC-919D-5990B71E1D33}|ExcellProcessor\\ExcellProcessor.csproj|f:\\sj software solutions\\projects\\excellimport\\excellprocessor\\processfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5389FD98-0F47-46AC-919D-5990B71E1D33}|ExcellProcessor\\ExcellProcessor.csproj|solutionrelative:excellprocessor\\processfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6E2756-0580-4FC0-B196-DAA25CF0F661}|DataAcess\\DataAcess.csproj|f:\\sj software solutions\\projects\\excellimport\\dataacess\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6E2756-0580-4FC0-B196-DAA25CF0F661}|DataAcess\\DataAcess.csproj|solutionrelative:dataacess\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6420C1F2-5F2F-4F4C-8197-C627D5BB1202}|Domain\\Domain.csproj|f:\\sj software solutions\\projects\\excellimport\\domain\\orderdetailaccessory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6420C1F2-5F2F-4F4C-8197-C627D5BB1202}|Domain\\Domain.csproj|solutionrelative:domain\\orderdetailaccessory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5389FD98-0F47-46AC-919D-5990B71E1D33}|ExcellProcessor\\ExcellProcessor.csproj|f:\\sj software solutions\\projects\\excellimport\\excellprocessor\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5389FD98-0F47-46AC-919D-5990B71E1D33}|ExcellProcessor\\ExcellProcessor.csproj|solutionrelative:excellprocessor\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76EA9ADE-A9DA-47B4-B8DE-61AA65E3B8EE}|ExcellImport\\ExcelImport.csproj|f:\\sj software solutions\\projects\\excellimport\\excellimport\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76EA9ADE-A9DA-47B4-B8DE-61AA65E3B8EE}|ExcellImport\\ExcelImport.csproj|solutionrelative:excellimport\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76EA9ADE-A9DA-47B4-B8DE-61AA65E3B8EE}|ExcellImport\\ExcelImport.csproj|f:\\sj software solutions\\projects\\excellimport\\excellimport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76EA9ADE-A9DA-47B4-B8DE-61AA65E3B8EE}|ExcellImport\\ExcelImport.csproj|solutionrelative:excellimport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76EA9ADE-A9DA-47B4-B8DE-61AA65E3B8EE}|ExcellImport\\ExcelImport.csproj|f:\\sj software solutions\\projects\\excellimport\\excellimport\\excelimport.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{76EA9ADE-A9DA-47B4-B8DE-61AA65E3B8EE}|ExcellImport\\ExcelImport.csproj|solutionrelative:excellimport\\excelimport.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6420C1F2-5F2F-4F4C-8197-C627D5BB1202}|Domain\\Domain.csproj|f:\\sj software solutions\\projects\\excellimport\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6420C1F2-5F2F-4F4C-8197-C627D5BB1202}|Domain\\Domain.csproj|solutionrelative:domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6420C1F2-5F2F-4F4C-8197-C627D5BB1202}|Domain\\Domain.csproj|f:\\sj software solutions\\projects\\excellimport\\domain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6420C1F2-5F2F-4F4C-8197-C627D5BB1202}|Domain\\Domain.csproj|solutionrelative:domain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDFF636-68A4-40AD-AE29-711AC46D0773}|Test Forms\\Test Forms.csproj|f:\\sj software solutions\\projects\\excellimport\\test forms\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDFF636-68A4-40AD-AE29-711AC46D0773}|Test Forms\\Test Forms.csproj|solutionrelative:test forms\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6420C1F2-5F2F-4F4C-8197-C627D5BB1202}|Domain\\Domain.csproj|f:\\sj software solutions\\projects\\excellimport\\domain\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6420C1F2-5F2F-4F4C-8197-C627D5BB1202}|Domain\\Domain.csproj|solutionrelative:domain\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6420C1F2-5F2F-4F4C-8197-C627D5BB1202}|Domain\\Domain.csproj|f:\\sj software solutions\\projects\\excellimport\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6420C1F2-5F2F-4F4C-8197-C627D5BB1202}|Domain\\Domain.csproj|solutionrelative:domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5389FD98-0F47-46AC-919D-5990B71E1D33}|ExcellProcessor\\ExcellProcessor.csproj|f:\\sj software solutions\\projects\\excellimport\\excellprocessor\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5389FD98-0F47-46AC-919D-5990B71E1D33}|ExcellProcessor\\ExcellProcessor.csproj|solutionrelative:excellprocessor\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDFF636-68A4-40AD-AE29-711AC46D0773}|Test Forms\\Test Forms.csproj|f:\\sj software solutions\\projects\\excellimport\\test forms\\test forms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7BDFF636-68A4-40AD-AE29-711AC46D0773}|Test Forms\\Test Forms.csproj|solutionrelative:test forms\\test forms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDFF636-68A4-40AD-AE29-711AC46D0773}|Test Forms\\Test Forms.csproj|F:\\SJ Software Solutions\\Projects\\ExcellImport\\test forms\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BDFF636-68A4-40AD-AE29-711AC46D0773}|Test Forms\\Test Forms.csproj|solutionrelative:test forms\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDFF636-68A4-40AD-AE29-711AC46D0773}|Test Forms\\Test Forms.csproj|F:\\SJ Software Solutions\\Projects\\ExcellImport\\test forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BDFF636-68A4-40AD-AE29-711AC46D0773}|Test Forms\\Test Forms.csproj|solutionrelative:test forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5537A47E-9659-4A87-B95D-94206C194494}|TestHarness\\TestHarness.csproj|f:\\sj software solutions\\projects\\excellimport\\testharness\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5537A47E-9659-4A87-B95D-94206C194494}|TestHarness\\TestHarness.csproj|solutionrelative:testharness\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6420C1F2-5F2F-4F4C-8197-C627D5BB1202}|Domain\\Domain.csproj|f:\\sj software solutions\\projects\\excellimport\\domain\\orderdetailszones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6420C1F2-5F2F-4F4C-8197-C627D5BB1202}|Domain\\Domain.csproj|solutionrelative:domain\\orderdetailszones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDFF636-68A4-40AD-AE29-711AC46D0773}|Test Forms\\Test Forms.csproj|f:\\sj software solutions\\projects\\excellimport\\test forms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDFF636-68A4-40AD-AE29-711AC46D0773}|Test Forms\\Test Forms.csproj|solutionrelative:test forms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDFF636-68A4-40AD-AE29-711AC46D0773}|Test Forms\\Test Forms.csproj|f:\\sj software solutions\\projects\\excellimport\\test forms\\test forms.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7BDFF636-68A4-40AD-AE29-711AC46D0773}|Test Forms\\Test Forms.csproj|solutionrelative:test forms\\test forms.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6E2756-0580-4FC0-B196-DAA25CF0F661}|DataAcess\\DataAcess.csproj|f:\\sj software solutions\\projects\\excellimport\\dataacess\\dataacess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9C6E2756-0580-4FC0-B196-DAA25CF0F661}|DataAcess\\DataAcess.csproj|solutionrelative:dataacess\\dataacess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76EA9ADE-A9DA-47B4-B8DE-61AA65E3B8EE}|ExcellImport\\ExcelImport.csproj|f:\\sj software solutions\\projects\\excellimport\\excellimport\\excelimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76EA9ADE-A9DA-47B4-B8DE-61AA65E3B8EE}|ExcellImport\\ExcelImport.csproj|solutionrelative:excellimport\\excelimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestHarness.csproj",
+              "DocumentMoniker": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\TestHarness\\TestHarness.csproj",
+              "RelativeDocumentMoniker": "TestHarness\\TestHarness.csproj",
+              "ToolTip": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\TestHarness\\TestHarness.csproj",
+              "RelativeToolTip": "TestHarness\\TestHarness.csproj",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwAsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-01T12:42:49.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Email.cs",
+              "DocumentMoniker": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\ExcellProcessor\\Email.cs",
+              "RelativeDocumentMoniker": "ExcellProcessor\\Email.cs",
+              "ToolTip": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\ExcellProcessor\\Email.cs",
+              "RelativeToolTip": "ExcellProcessor\\Email.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:50:52.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\ExcellProcessor\\Helper.cs",
+              "RelativeDocumentMoniker": "ExcellProcessor\\Helper.cs",
+              "ToolTip": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\ExcellProcessor\\Helper.cs",
+              "RelativeToolTip": "ExcellProcessor\\Helper.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowBYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T09:34:52.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProcessFile.cs",
+              "DocumentMoniker": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\ExcellProcessor\\ProcessFile.cs",
+              "RelativeDocumentMoniker": "ExcellProcessor\\ProcessFile.cs",
+              "ToolTip": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\ExcellProcessor\\ProcessFile.cs",
+              "RelativeToolTip": "ExcellProcessor\\ProcessFile.cs",
+              "ViewState": "AgIAACIBAAAAAAAAAIAwwDkBAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:13:49.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbHelper.cs",
+              "DocumentMoniker": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\DataAcess\\dbHelper.cs",
+              "RelativeDocumentMoniker": "DataAcess\\dbHelper.cs",
+              "ToolTip": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\DataAcess\\dbHelper.cs",
+              "RelativeToolTip": "DataAcess\\dbHelper.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwCgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:56:03.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderDetailAccessory.cs",
+              "DocumentMoniker": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\Domain\\OrderDetailAccessory.cs",
+              "RelativeDocumentMoniker": "Domain\\OrderDetailAccessory.cs",
+              "ToolTip": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\Domain\\OrderDetailAccessory.cs",
+              "RelativeToolTip": "Domain\\OrderDetailAccessory.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIAwwCAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:07:43.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T20:44:49.836Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\ExcellImport\\local.settings.json",
+              "RelativeDocumentMoniker": "ExcellImport\\local.settings.json",
+              "ToolTip": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\ExcellImport\\local.settings.json",
+              "RelativeToolTip": "ExcellImport\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-01T16:12:26.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ExcelImport.cs",
+              "DocumentMoniker": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\ExcellImport\\ExcelImport.cs",
+              "RelativeDocumentMoniker": "ExcellImport\\ExcelImport.cs",
+              "ToolTip": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\ExcellImport\\ExcelImport.cs",
+              "RelativeToolTip": "ExcellImport\\ExcelImport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:05:29.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExcelImport.csproj",
+              "DocumentMoniker": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\ExcellImport\\ExcelImport.csproj",
+              "RelativeDocumentMoniker": "ExcellImport\\ExcelImport.csproj",
+              "ToolTip": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\ExcellImport\\ExcelImport.csproj",
+              "RelativeToolTip": "ExcellImport\\ExcelImport.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T20:14:24.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Test Forms.csproj",
+              "DocumentMoniker": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\Test Forms\\Test Forms.csproj",
+              "RelativeDocumentMoniker": "Test Forms\\Test Forms.csproj",
+              "ToolTip": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\Test Forms\\Test Forms.csproj",
+              "RelativeToolTip": "Test Forms\\Test Forms.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-22T09:14:17.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\Domain\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "Domain\\OrderDetails.cs",
+              "ToolTip": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\Domain\\OrderDetails.cs",
+              "RelativeToolTip": "Domain\\OrderDetails.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAgwI4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:48:11.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\Domain\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\User.cs",
+              "ToolTip": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\Domain\\User.cs",
+              "RelativeToolTip": "Domain\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAtwBgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:55:07.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\ExcellImport\\Program.cs",
+              "RelativeDocumentMoniker": "ExcellImport\\Program.cs",
+              "ToolTip": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\ExcellImport\\Program.cs",
+              "RelativeToolTip": "ExcellImport\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:03:28.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\Domain\\Customer.cs",
+              "RelativeDocumentMoniker": "Domain\\Customer.cs",
+              "ToolTip": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\Domain\\Customer.cs",
+              "RelativeToolTip": "Domain\\Customer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:43:22.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Order.cs",
+              "DocumentMoniker": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\Domain\\Order.cs",
+              "RelativeDocumentMoniker": "Domain\\Order.cs",
+              "ToolTip": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\Domain\\Order.cs",
+              "RelativeToolTip": "Domain\\Order.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwC4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:45:01.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\Test Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "Test Forms\\Form1.cs",
+              "ToolTip": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\Test Forms\\Form1.cs [Design]",
+              "RelativeToolTip": "Test Forms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T09:14:12.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\TestHarness\\Class1.cs",
+              "RelativeDocumentMoniker": "TestHarness\\Class1.cs",
+              "ToolTip": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\TestHarness\\Class1.cs",
+              "RelativeToolTip": "TestHarness\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:11:40.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Test.cs",
+              "DocumentMoniker": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\Test Forms\\Test.cs",
+              "RelativeDocumentMoniker": "Test Forms\\Test.cs",
+              "ToolTip": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\Test Forms\\Test.cs",
+              "RelativeToolTip": "Test Forms\\Test.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwCEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T09:14:53.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Test.cs [Design]",
+              "DocumentMoniker": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\Test Forms\\Test.cs",
+              "RelativeDocumentMoniker": "Test Forms\\Test.cs",
+              "ToolTip": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\Test Forms\\Test.cs [Design]",
+              "RelativeToolTip": "Test Forms\\Test.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T09:14:31.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderdetailsZones.cs",
+              "DocumentMoniker": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\Domain\\OrderdetailsZones.cs",
+              "RelativeDocumentMoniker": "Domain\\OrderdetailsZones.cs",
+              "ToolTip": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\Domain\\OrderdetailsZones.cs",
+              "RelativeToolTip": "Domain\\OrderdetailsZones.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowCIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:24:36.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Test Forms",
+              "DocumentMoniker": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\Test Forms\\Test Forms.csproj",
+              "RelativeDocumentMoniker": "Test Forms\\Test Forms.csproj",
+              "ToolTip": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\Test Forms\\Test Forms.csproj",
+              "RelativeToolTip": "Test Forms\\Test Forms.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-22T09:17:12.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\Test Forms\\Program.cs",
+              "RelativeDocumentMoniker": "Test Forms\\Program.cs",
+              "ToolTip": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\Test Forms\\Program.cs",
+              "RelativeToolTip": "Test Forms\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T09:17:21.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DataAcess.csproj",
+              "DocumentMoniker": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\DataAcess\\DataAcess.csproj",
+              "RelativeDocumentMoniker": "DataAcess\\DataAcess.csproj",
+              "ToolTip": "F:\\SJ Software Solutions\\Projects\\ExcellImport\\DataAcess\\DataAcess.csproj",
+              "RelativeToolTip": "DataAcess\\DataAcess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T18:55:46.362Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

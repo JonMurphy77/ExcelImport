@@ -1,0 +1,13 @@
+F:\SJ Software Solutions\Projects\ExcellImport\DataAcess\bin\Debug\net8.0\DataAcess.deps.json
+F:\SJ Software Solutions\Projects\ExcellImport\DataAcess\bin\Debug\net8.0\DataAcess.dll
+F:\SJ Software Solutions\Projects\ExcellImport\DataAcess\bin\Debug\net8.0\DataAcess.pdb
+F:\SJ Software Solutions\Projects\ExcellImport\DataAcess\obj\Debug\net8.0\DataAcess.csproj.AssemblyReference.cache
+F:\SJ Software Solutions\Projects\ExcellImport\DataAcess\obj\Debug\net8.0\DataAcess.GeneratedMSBuildEditorConfig.editorconfig
+F:\SJ Software Solutions\Projects\ExcellImport\DataAcess\obj\Debug\net8.0\DataAcess.AssemblyInfoInputs.cache
+F:\SJ Software Solutions\Projects\ExcellImport\DataAcess\obj\Debug\net8.0\DataAcess.AssemblyInfo.cs
+F:\SJ Software Solutions\Projects\ExcellImport\DataAcess\obj\Debug\net8.0\DataAcess.csproj.CoreCompileInputs.cache
+F:\SJ Software Solutions\Projects\ExcellImport\DataAcess\obj\Debug\net8.0\DataAcess.sourcelink.json
+F:\SJ Software Solutions\Projects\ExcellImport\DataAcess\obj\Debug\net8.0\DataAcess.dll
+F:\SJ Software Solutions\Projects\ExcellImport\DataAcess\obj\Debug\net8.0\refint\DataAcess.dll
+F:\SJ Software Solutions\Projects\ExcellImport\DataAcess\obj\Debug\net8.0\DataAcess.pdb
+F:\SJ Software Solutions\Projects\ExcellImport\DataAcess\obj\Debug\net8.0\ref\DataAcess.dll

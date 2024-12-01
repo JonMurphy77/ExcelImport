@@ -1,0 +1,64 @@
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\Test Forms.exe
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\Test Forms.deps.json
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\Test Forms.runtimeconfig.json
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\Test Forms.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\Test Forms.pdb
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\Azure.Core.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\Azure.Identity.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\Dapper.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\System.ClientModel.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\System.Memory.Data.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\DataAcess.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\Domain.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\DataAcess.pdb
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\Domain.pdb
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\obj\Debug\net8.0-windows\Test Forms.csproj.AssemblyReference.cache
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\obj\Debug\net8.0-windows\Test_Forms.Form1.resources
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\obj\Debug\net8.0-windows\Test_Forms.Test.resources
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\obj\Debug\net8.0-windows\Test Forms.csproj.GenerateResource.cache
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\obj\Debug\net8.0-windows\Test Forms.GeneratedMSBuildEditorConfig.editorconfig
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\obj\Debug\net8.0-windows\Test Forms.AssemblyInfoInputs.cache
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\obj\Debug\net8.0-windows\Test Forms.AssemblyInfo.cs
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\obj\Debug\net8.0-windows\Test Forms.csproj.CoreCompileInputs.cache
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\obj\Debug\net8.0-windows\Test Forms.sourcelink.json
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\obj\Debug\net8.0-windows\Test Forms.csproj.Up2Date
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\obj\Debug\net8.0-windows\Test Forms.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\obj\Debug\net8.0-windows\refint\Test Forms.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\obj\Debug\net8.0-windows\Test Forms.pdb
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\obj\Debug\net8.0-windows\Test Forms.genruntimeconfig.cache
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\obj\Debug\net8.0-windows\ref\Test Forms.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\Syncfusion.Compression.Portable.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\Syncfusion.Licensing.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\Syncfusion.XlsIO.Portable.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\ExcellProcessor.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Test Forms\bin\Debug\net8.0-windows\ExcellProcessor.pdb

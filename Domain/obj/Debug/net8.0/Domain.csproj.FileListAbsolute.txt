@@ -1,0 +1,16 @@
+F:\SJ Software Solutions\Projects\ExcellImport\Domain\bin\Debug\net8.0\Domain.deps.json
+F:\SJ Software Solutions\Projects\ExcellImport\Domain\bin\Debug\net8.0\Domain.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Domain\bin\Debug\net8.0\Domain.pdb
+F:\SJ Software Solutions\Projects\ExcellImport\Domain\bin\Debug\net8.0\DataAcess.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Domain\bin\Debug\net8.0\DataAcess.pdb
+F:\SJ Software Solutions\Projects\ExcellImport\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+F:\SJ Software Solutions\Projects\ExcellImport\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\SJ Software Solutions\Projects\ExcellImport\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+F:\SJ Software Solutions\Projects\ExcellImport\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+F:\SJ Software Solutions\Projects\ExcellImport\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+F:\SJ Software Solutions\Projects\ExcellImport\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+F:\SJ Software Solutions\Projects\ExcellImport\Domain\obj\Debug\net8.0\Domain.csproj.Up2Date
+F:\SJ Software Solutions\Projects\ExcellImport\Domain\obj\Debug\net8.0\Domain.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Domain\obj\Debug\net8.0\refint\Domain.dll
+F:\SJ Software Solutions\Projects\ExcellImport\Domain\obj\Debug\net8.0\Domain.pdb
+F:\SJ Software Solutions\Projects\ExcellImport\Domain\obj\Debug\net8.0\ref\Domain.dll

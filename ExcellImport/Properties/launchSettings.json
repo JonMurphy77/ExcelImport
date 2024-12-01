@@ -1,0 +1,19 @@
+{
+  "profiles": {
+    "ExcellImport": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7216"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "httpPort": 31289,
+      "useSSL": false
+    },
+    "Profile 1": {
+      "commandName": "Project",
+      "remoteDebugEnabled": true,
+      "nativeDebugging": true
+    }
+  }
+}

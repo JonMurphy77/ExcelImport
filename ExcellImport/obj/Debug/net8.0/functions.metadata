@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ExcelImport",
+    "scriptFile": "ExcelImport.dll",
+    "entryPoint": "ExcellImport.ExcelImport.Run",
+    "language": "dotnet-isolated",
+    "properties": {
+      "IsCodeless": false
+    },
+    "bindings": [
+      {
+        "name": "stream",
+        "direction": "In",
+        "type": "blobTrigger",
+        "path": "excelimports/{name}",
+        "connection": "AzureWebJobsStorage",
+        "properties": {
+          "supportsDeferredBinding": "True"
+        }
+      }
+    ]
+  }
+]

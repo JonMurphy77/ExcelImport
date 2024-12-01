@@ -1,0 +1,13 @@
+F:\SJ Software Solutions\Projects\ExcellImport\TestHarness\bin\Debug\net8.0\TestHarness.deps.json
+F:\SJ Software Solutions\Projects\ExcellImport\TestHarness\bin\Debug\net8.0\TestHarness.dll
+F:\SJ Software Solutions\Projects\ExcellImport\TestHarness\bin\Debug\net8.0\TestHarness.pdb
+F:\SJ Software Solutions\Projects\ExcellImport\TestHarness\obj\Debug\net8.0\TestHarness.csproj.AssemblyReference.cache
+F:\SJ Software Solutions\Projects\ExcellImport\TestHarness\obj\Debug\net8.0\TestHarness.GeneratedMSBuildEditorConfig.editorconfig
+F:\SJ Software Solutions\Projects\ExcellImport\TestHarness\obj\Debug\net8.0\TestHarness.AssemblyInfoInputs.cache
+F:\SJ Software Solutions\Projects\ExcellImport\TestHarness\obj\Debug\net8.0\TestHarness.AssemblyInfo.cs
+F:\SJ Software Solutions\Projects\ExcellImport\TestHarness\obj\Debug\net8.0\TestHarness.csproj.CoreCompileInputs.cache
+F:\SJ Software Solutions\Projects\ExcellImport\TestHarness\obj\Debug\net8.0\TestHarness.sourcelink.json
+F:\SJ Software Solutions\Projects\ExcellImport\TestHarness\obj\Debug\net8.0\TestHarness.dll
+F:\SJ Software Solutions\Projects\ExcellImport\TestHarness\obj\Debug\net8.0\refint\TestHarness.dll
+F:\SJ Software Solutions\Projects\ExcellImport\TestHarness\obj\Debug\net8.0\TestHarness.pdb
+F:\SJ Software Solutions\Projects\ExcellImport\TestHarness\obj\Debug\net8.0\ref\TestHarness.dll

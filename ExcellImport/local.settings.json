@@ -1,8 +1,0 @@
-{
-    "IsEncrypted": false,
-  "Values": {
-    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=evdocumentmanagement;AccountKey=+R2gRFdt61K4Lm6+V9AKiXsmQ/n+DqTv+RDLKfO03PIZ16yupf7UWtSz9BFLwp5/7In0AEoWlfyM6SP5XUyiEw==;EndpointSuffix=core.windows.net",
-    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
-    "email":  "Jon@Sj_Software-Solutions.com"
-  }
-}

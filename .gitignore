@@ -3,3 +3,10 @@
 ################################################################################
 
 /ExcellImport/local.settings.json
+/.vs/ProjectEvaluation/excelimport.metadata.v9.bin
+/.vs/ProjectEvaluation/excelimport.projects.v9.bin
+/.vs/ProjectEvaluation/excelimport.strings.v9.bin
+*.v2
+*.vsidx
+/.vs/ExcelImport/v17/.suo
+/.vs/ExcelImport/v17/DocumentLayout.backup.json
